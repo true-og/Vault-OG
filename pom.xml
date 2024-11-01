@@ -243,8 +243,6 @@
 			<artifactId>org.json.simple</artifactId>
 			<version>0.4</version>
 		</dependency>
-
-
 	</dependencies>
 
 	<build>
