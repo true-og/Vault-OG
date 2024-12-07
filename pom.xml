@@ -10,9 +10,9 @@
 
     <!-- Project information -->
     <groupId>net.milkbowl.vault</groupId>
-    <artifactId>Vault</artifactId>
-    <version>1.7.3_JDK17</version>
-    <name>Vault</name>
+    <artifactId>Vault-OG</artifactId>
+    <version>1.7.4</version>
+    <name>Vault-OG</name>
     <url>https://dev.bukkit.org/projects/vault</url>
 
     <dependencies>
@@ -48,14 +48,6 @@
             <groupId>org.apache.clerezza.ext</groupId>
             <artifactId>org.json.simple</artifactId>
             <version>0.4</version>
-        </dependency>
-
-        <!-- Updated GroupManager Dependency -->
-        <dependency>
-            <groupId>org.anjocaido.groupmanager</groupId>
-            <artifactId>GroupManager</artifactId>
-            <version>2.0</version>
-            <scope>provided</scope>
         </dependency>
     </dependencies>
 
