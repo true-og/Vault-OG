@@ -46,7 +46,7 @@ Vault comes with all libraries needed to build from the current branch and
 also comes with an Apache Ant build file (build.xml) and a Maven build file
 (pom.xml). Maven is currently the preferred build method. Simply run:
 
-```mvn clean package```
+```./mvnw clean package```
 
 ## Dependencies
 Because Vault provides a bridge to other plugins, their binaries will be
@@ -61,5 +61,4 @@ you have your own plugin that you believe should be supported, you'll need
 to add your own connector within your plugin as Vault no longer maintains
 new plugin connectors.
 
-  - Group Manager (Essentials) (https://forums.bukkit.org/threads/15312/)
   - LuckPerms (https://www.spigotmc.org/resources/luckperms-an-advanced-permissions-plugin.28140/)
